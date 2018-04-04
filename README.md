@@ -1,6 +1,6 @@
 # Issue with http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/iot/quickstart/QuickStart_JS/qs_iot_js.html
 
-- Running `sh run-device-node-sample.sh app.js provisioning superdupersecretpass`results in the following error:
+- Running `npm install && sh run-device-node-sample.sh app.js provisioning superdupersecretpass`results in the following error:
 
 `executing run-device-node-sample.sh from .
 module.js:487
