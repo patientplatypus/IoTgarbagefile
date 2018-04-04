@@ -1,5 +1,6 @@
 # Issue with http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/iot/quickstart/QuickStart_JS/qs_iot_js.html
 
+- Note that I've ignored my provisioning file in the repo, but have it in my original.
 - Running `npm install && sh run-device-node-sample.sh app.js provisioning superdupersecretpass`results in the following error:
 
 `executing run-device-node-sample.sh from .
